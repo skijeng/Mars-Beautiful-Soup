@@ -28,7 +28,6 @@ Which month, on average, has the lowest atmospheric pressure? The highest? The m
 About how many Earth days exist in a Martian year? There are approximately 705.8 terrestrial days in a Martian year.
 
 Technologies Used:
-
 Python, 
 Jupyter Notebook, 
 Beautiful Soup, 
