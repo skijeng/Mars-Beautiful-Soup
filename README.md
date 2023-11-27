@@ -29,9 +29,10 @@ About how many Earth days exist in a Martian year? There are approximately 705.8
 
 Technologies Used:
 
-Python
-Jupyter Notebook
-Beautiful Soup
-Splinter
-Pandas
-Matplotlib
+Python, 
+Jupyter Notebook, 
+Beautiful Soup, 
+Splinter, 
+Pandas, 
+Matplotlib, 
+Selenium
